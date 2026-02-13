@@ -2,7 +2,7 @@
 
 A modern, feature-rich desktop language translator built with Python and Tkinter.
 
-![Language Translator](screenshot.png)
+![Language Translator](image.png)
 
 ## Features
 
@@ -85,10 +85,9 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## Author
 
-Mandeep Singh Bhullar
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-profile)
-- GitHub: [@your-username](https://github.com/your-username)
-
+**Mandeep Singh Bhullar**
+- LinkedIn: [Mandeep Singh Bhullar](https://linkedin.com/in/mandeep-singh-bhullar-b37458343)
+- GitHub: [@mandeep-08](https://github.com/mandeep-08)
 ## Acknowledgments
 
 - Translation powered by Google Translate API via deep-translator
